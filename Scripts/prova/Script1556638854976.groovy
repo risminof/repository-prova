@@ -18,4 +18,3 @@ import internal.GlobalVariable as GlobalVariable
 WebUI.openBrowser('https://sport.sky.it')
 WebUI.maximizeWindow()
 WebUI.delay(1)
-WebUI.delay(1)
